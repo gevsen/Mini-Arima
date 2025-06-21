@@ -1,0 +1,7 @@
+aiogram
+aiohttp
+aiosqlite
+apscheduler
+cachetools
+openai
+python-dotenv
